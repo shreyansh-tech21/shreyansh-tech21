@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shreyansh Karamtot
 
-<!--
-**shreyansh-tech21/shreyansh-tech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused software engineer interested in platform engineering, AI developer tools, automation, and distributed systems.
 
-Here are some ideas to get you started:
+Currently building:
+- API orchestration and workflow tooling at Zinnia
+- Open-source contributions through GSSOC
+- AI-assisted developer tooling and test automation projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### Tokis — Context Engine for LLM-Based Code Understanding
+Local-first context retrieval system for LLM code workflows with repo indexing, selective context injection, masking, and microservice-based orchestration.
+
+### AutoTestIQ — AI-Driven Test Automation Platform
+Low-code UI/API automation platform with self-healing Playwright execution, RBAC, analytics, and LLM-assisted failure analysis.
+
+## Tech Stack
+
+Java · Python · C++ · SQL  
+Spring Boot · FastAPI · Node.js · Next.js  
+PostgreSQL · MongoDB · Docker · AWS  
+REST APIs · Microservices · RAG · LLM Integration
+
+## Competitive Programming
+
+- Codeforces: Specialist, 1402
+- LeetCode: Knight, 1881
+
+## Open Source
+
+Contributing to GSSOC 2026 and actively working toward deeper OSS contributions in backend/tooling ecosystems.
+
+## Links
+
+- Resume
+- LinkedIn
+- GitHub Projects
