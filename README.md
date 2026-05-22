@@ -1,38 +1,71 @@
-# Hi, I'm Shreyansh Karamtot
+````md
+<h1 align="center">Shreyansh Karamtot</h1>
 
-Backend-focused software engineer interested in platform engineering, AI developer tools, automation, and distributed systems.
+<p align="center">
+Backend Engineering • AI Tooling • Distributed Systems • Open Source
+</p>
 
-Currently building:
-- API orchestration and workflow tooling at Zinnia
-- Open-source contributions through GSSOC
-- AI-assisted developer tooling and test automation projects
+---
 
-## Featured Work
+### Current Focus
 
-### Tokis — Context Engine for LLM-Based Code Understanding
-Local-first context retrieval system for LLM code workflows with repo indexing, selective context injection, masking, and microservice-based orchestration.
+- Workflow orchestration and service integration systems
+- LLM-assisted developer tooling and retrieval systems
+- Backend infrastructure and observability
+- Competitive programming and interview preparation
 
-### AutoTestIQ — AI-Driven Test Automation Platform
-Low-code UI/API automation platform with self-healing Playwright execution, RBAC, analytics, and LLM-assisted failure analysis.
+---
 
-## Tech Stack
+### Engineering
 
-Java · Python · C++ · SQL  
-Spring Boot · FastAPI · Node.js · Next.js  
-PostgreSQL · MongoDB · Docker · AWS  
-REST APIs · Microservices · RAG · LLM Integration
+#### Zinnia Digital Services
+Working on orchestration-driven backend systems, workflow execution, observability, and service integration patterns.
 
-## Competitive Programming
+#### Tokis
+Context retrieval engine for LLM-based code understanding.
 
-- Codeforces: Specialist, 1402
-- LeetCode: Knight, 1881
+Features:
+- selective context injection
+- repository indexing
+- masking/security layers
+- retrieval orchestration
+- local-first workflows
 
-## Open Source
+#### AutoTestIQ
+AI-assisted collaborative automation platform with:
+- self-healing Playwright execution
+- UI/API orchestration
+- execution analytics
+- RBAC
+- LLM-assisted debugging
 
-Contributing to GSSOC 2026 and actively working toward deeper OSS contributions in backend/tooling ecosystems.
+---
 
-## Links
+### Technical Stack
 
-- Resume
-- LinkedIn
-- GitHub Projects
+```txt
+Languages     Java • Python • C++ • SQL
+Backend       Spring Boot • FastAPI • Node.js
+Infra         Docker • PostgreSQL • AWS
+Concepts      REST APIs • Microservices • RAG • Distributed Systems
+````
+
+---
+
+### Competitive Programming
+
+* Codeforces — Specialist
+* LeetCode — Knight
+
+---
+
+### Open Source
+
+Contributor in GSSOC 2026 with focus on meaningful backend and tooling contributions.
+
+---
+
+<p align="center">
+Building systems that reduce engineering friction.
+</p>
+```
