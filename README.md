@@ -126,13 +126,7 @@ Collaborative UI/API automation platform with resilient execution workflows.
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shreyansh-tech21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tech21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh-tech21&theme=tokyo-night&hide_border=true" />
+<img width="95%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh-tech21&theme=tokyo-night&hide_border=true" />
 
 </div>
 
