@@ -138,39 +138,6 @@ Collaborative UI/API automation platform with resilient execution workflows.
 
 ---
 
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/shreyansh-tech21/automation-testing">
-  <img width="49%" alt="AutoTestIQ" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tech21&repo=automation-testing&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/shreyansh-tech21/tokis">
-  <img width="49%" alt="Tokis" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tech21&repo=tokis&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## Open Source Contribution Repositories
-
-<div align="center">
-
-<a href="https://github.com/im-anishraj/arnio">
-  <img width="49%" alt="arnio" src="https://github-readme-stats.vercel.app/api/pin/?username=im-anishraj&repo=arnio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### Contribution Highlights
-
-| Repository | Contributions |
-|-----------|---------------|
-| [**arnio**](https://github.com/im-anishraj/arnio) | IQR-based outlier profiling, numeric column profile fields, documentation, tests, CSV type inference improvements |
-
----
 
 ## Education
 
